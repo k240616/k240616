@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Abrish Nauman
+- 👀 I’m interested in coding, robotics, sports especially karate.
+- 🌱 I’m currently learning cyber security at FAST Khi
+- 📫 You can reach me at nauman419@gmail.com
+- 🤝 I would love to collab with intelligence agencies
+- ![kungfu_panda](https://images.augustman.com/wp-content/uploads/sites/6/2023/12/13161504/ung-fu-panda-4-719x1024-1.jpeg)
