@@ -27,9 +27,9 @@ NUM4 = 0-NUM1-NUM2-NUM3
 SUM = NUM4 * -1
 
 PRINT SUM
-END/
+END
 
-##TASK 2
+## TASK 2
 
 Q.Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
 one being used for the operator)
@@ -54,10 +54,10 @@ ELSE IF
 	NUM3 = NUM1 - NUM2
 	PRINT NUM3
 ELSE
-	PRINT "Invalid Operations"\
+	PRINT "Invalid Operations"
 
-#Algorithm
-##TASK1
+# Algorithm
+## TASK1
  
 Q.Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
 If so, determine if it’s an even number or odd number as well.
@@ -70,7 +70,7 @@ If so, determine if it’s an even number or odd number as well.
 5. IF MOD is 0 then print "n is even" ELSE print "n is odd"
 
 
-##TASK2
+## TASK2
 Q.Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
 1. ask the user to enter NUM1
 2. ask the user to enter NUM2
@@ -85,5 +85,5 @@ Q.Implement an algorithm for making a simple calculator with all the operators (
 11. PRINT NUM3
 
 
-#FLOWCHART
+# FLOWCHART
 ![flowchart](https://github.com/user-attachments/assets/633d6ebc-5aae-448f-ae2b-617152f4ee34)
