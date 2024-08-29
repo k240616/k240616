@@ -27,7 +27,7 @@ NUM4 = 0-NUM1-NUM2-NUM3
 SUM = NUM4 * -1
 
 PRINT SUM
-END
+END/
 
 ##TASK 2
 
@@ -54,7 +54,7 @@ ELSE IF
 	NUM3 = NUM1 - NUM2
 	PRINT NUM3
 ELSE
-	PRINT "Invalid Operations"
+	PRINT "Invalid Operations"\
 
 #Algorithm
 ##TASK1
