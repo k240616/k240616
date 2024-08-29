@@ -84,8 +84,6 @@ Q.Implement an algorithm for making a simple calculator with all the operators (
 10. ELSE PRINT "operations is invalid"
 11. PRINT NUM3
 
+
 #FLOWCHART
-![flowchart](C:\Users\Lenovo\Downloads\image.png)
-
-
-
+![flowchart](https://github.com/user-attachments/assets/633d6ebc-5aae-448f-ae2b-617152f4ee34)
