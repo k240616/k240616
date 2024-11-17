@@ -1,0 +1,173 @@
+body{
+    background-color: #3a3a3a;
+    justify-content: space-evenly;
+    width: 100vw;
+    
+    
+}
+
+.header{
+    background-color:#3a3a3a;
+    color: rgb(245, 247, 226);
+    height: 15vh;
+    width: 100vw;
+    font-size: Xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    text-align: top;
+    image-resolution: 50%;
+}
+.top{
+    background-color: #3a3a3a;
+    color: rgb(245, 247, 226);
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+}
+.aboutme{
+    background-color: #3a3a3a;
+    
+    color: rgb(245, 247, 226);
+    width: 95vw;
+    margin-left: 2.1vw;
+    height: 90vh;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.about{
+    height: 40vh;
+    width: 60vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 15vh;
+    /* margin-right: 10vw; */
+    
+}
+.my_pic{
+    width: 30vw;
+    height: 80vh;
+    background-image: url("me.jpg");
+    background-size: cover;
+    border-radius: 2%;
+    background-color: black  ;
+    margin-left: 10vw;
+    box-shadow: rgb(0,0,1, 0.5) 4px 4px 4px 4px;
+}
+.education{
+    background-color:  #3a3a3a;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    
+    height: 60vh; 
+    color: rgb(245, 247, 226);
+    align-content: center;
+}
+.educationbox{
+    display: flex;
+    flex-direction: row;
+}
+.picfast{
+    width: 35vw;
+    height: 40vh;
+    border-radius: 2%;
+    background-color: black  ;
+    margin-right: 10vw;
+    box-shadow: rgb(0,0,1, 0.5) 4px 4px 4px 4px;
+    background-image: url("fast.jpg");
+    background-size: cover;
+    
+}
+.picgens{
+    width: 35vw;
+    height: 40vh;
+    border-radius: 2%;
+    background-color: black  ;
+    background-image: url("gens.jpg");
+    background-size: cover;
+    box-shadow: rgb(0,0,1, 0.5) 4px 4px 4px 4px;
+}
+.intrests{
+    background-color:  #3a3a3a;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    
+    height: 40vh; 
+    color: rgb(245, 247, 226);
+    align-content: center;
+
+}
+.skills{
+    background-color: #3a3a3a;
+    color: rgb(245, 247, 226);
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 50vh; 
+}
+.vision{
+    background-color: #3a3a3a;
+    color: rgb(245, 247, 226);
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 50vh;
+}
+.inspiration{
+    background-color: #3a3a3a;
+    color: rgb(245, 247, 226);
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 40vh;
+}
+.memory{
+    background-color: #3a3a3a;
+    color: rgb(245, 247, 226);
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 80vh;
+    
+}
+
+.memorybox{
+    align-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+}
+.memo{
+    background-color: #3a3a3a;
+    color: rgb(245, 247, 226);
+    width: 40vw;
+    /* margin-left: 10vw; */
+    margin-right: 10vw;
+    height: 50vh;
+    
+}
+.memorypic{
+    width: 22vw;
+    height: 54vh;
+    background-image: url("giki.jpg");
+    background-size: cover;
+    border-radius: 2%;
+    background-color: black  ;
+    box-shadow: rgb(0,0,1, 0.5) 4px 4px 4px 4px;
+    
+}
+.footer{
+    background-color: #3a3a3a;
+    color: rgb(245, 247, 226);
+    width: 90vw;
+    margin-left: 5vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
